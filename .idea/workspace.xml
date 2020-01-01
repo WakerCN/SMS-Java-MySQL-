@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c946ebf1-136f-44b5-9402-e586d389c87b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/META-INF/SMS.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/controller/impl/StudentControllerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/model/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/model/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/model/vo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/model/vo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/util/DBManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/view/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SMS/view/Query_student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sms.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/impl/StudentControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/vo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Query_student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Code\Java\SMS\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vc2EjOKJuNqkiHgZYpbcTEizYl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sql" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\Java\SMS\sql" />
+      <recent name="E:\Code\Java\SMS\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Login" />
+      <module name="SMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c946ebf1-136f-44b5-9402-e586d389c87b" name="Default Changelist" comment="" />
+      <created>1577537952787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577537952787</updated>
+      <workItem from="1577537956955" duration="5550000" />
+      <workItem from="1577601817477" duration="9361000" />
+      <workItem from="1577669535615" duration="19319000" />
+      <workItem from="1577807261907" duration="3102000" />
+      <workItem from="1577850484127" duration="8569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="91" key="#Notifications" timestamp="1577859041001">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="402" y="91" key="#Notifications/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577859041001" />
+    <state x="402" y="91" key="#SQL_Dialects" timestamp="1577860343117">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="402" y="91" key="#SQL_Dialects/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860343117" />
+    <state x="402" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577860353740">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="402" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860353740" />
+    <state x="538" y="270" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577860599086">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="538" y="270" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860599086" />
+    <state x="440" y="39" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1577609848081">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="440" y="39" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577609848081" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1577706703348">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577706703348" />
+    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1577860415749">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="412" y="0" key="CommitChangelistDialog2/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860415749" />
+    <state x="633" y="180" key="FileChooserDialogImpl" timestamp="1577860596631">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="633" y="180" key="FileChooserDialogImpl/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860596631" />
+    <state x="624" y="339" width="394" height="185" key="Github.CreateGistDialog" timestamp="1577858937581">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="624" y="339" width="394" height="185" key="Github.CreateGistDialog/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577858937581" />
+    <state width="705" height="204" key="GridCell.Tab.0.bottom" timestamp="1577859676529">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state width="705" height="204" key="GridCell.Tab.0.bottom/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577859676529" />
+    <state width="1410" height="204" key="GridCell.Tab.0.bottom/83.0.1453.864@83.0.1453.864" timestamp="1577810391990" />
+    <state width="705" height="204" key="GridCell.Tab.0.center" timestamp="1577859676529">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state width="705" height="204" key="GridCell.Tab.0.center/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577859676529" />
+    <state width="1410" height="204" key="GridCell.Tab.0.center/83.0.1453.864@83.0.1453.864" timestamp="1577810391990" />
+    <state width="705" height="204" key="GridCell.Tab.0.left" timestamp="1577859676529">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state width="705" height="204" key="GridCell.Tab.0.left/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577859676529" />
+    <state width="1410" height="204" key="GridCell.Tab.0.left/83.0.1453.864@83.0.1453.864" timestamp="1577810391990" />
+    <state width="705" height="204" key="GridCell.Tab.0.right" timestamp="1577859676529">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state width="705" height="204" key="GridCell.Tab.0.right/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577859676529" />
+    <state width="1410" height="204" key="GridCell.Tab.0.right/83.0.1453.864@83.0.1453.864" timestamp="1577810391990" />
+    <state x="419" y="15" key="SettingsEditor" timestamp="1577860403046">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="419" y="15" key="SettingsEditor/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860403046" />
+    <state x="602" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577860290512">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="602" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860290512" />
+    <state x="540" y="175" key="extract.method.dialog" timestamp="1577854035514">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="540" y="175" key="extract.method.dialog/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577854035514" />
+    <state width="492" height="217" key="javadoc.popup.new" timestamp="1577858376706">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state width="492" height="217" key="javadoc.popup.new/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577858376706" />
+    <state x="514" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1577809451178">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="514" y="56" key="refactoring.ChangeSignatureDialog/83.0.1453.864@83.0.1453.864" timestamp="1577809451178" />
+    <state x="467" y="197" key="run.anything.popup" timestamp="1577860383231">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="467" y="197" key="run.anything.popup/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577860383231" />
+    <state x="462" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1577854489711">
+      <screen x="83" y="0" width="1453" height="864" />
+    </state>
+    <state x="462" y="185" width="672" height="678" key="search.everywhere.popup/83.0.1453.864/-1080.170.1080.1880@83.0.1453.864" timestamp="1577854489711" />
+  </component>
+</project>
